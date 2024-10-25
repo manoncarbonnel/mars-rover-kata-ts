@@ -1,0 +1,20 @@
+{
+  "name": "mars-rover-kata-ts",
+  "version": "1.0.0",
+  "author": "Manon Carbonnel & Nathan Castelein",
+  "scripts": {
+    "format": "prettier --write .",
+    "test": "vitest",
+    "test:coverage": "vitest --coverage",
+    "test:run": "vitest run",
+    "test:run:coverage": "vitest run --coverage"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.12.8",
+    "@vitest/coverage-istanbul": "^1.6.0",
+    "prettier": "2.7.1",
+    "typescript": "^5.4.5",
+    "vitest": "^1.6.0"
+  }
+}

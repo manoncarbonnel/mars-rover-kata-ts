@@ -1,0 +1,5 @@
+# Vitest coverage files
+coverage/
+
+# node dependencies
+node_modules/
